@@ -18,7 +18,8 @@ function App() {
           Learn React with Vinsin
         </a>
       </header> */}
-      <h1> Hi I am Learning React </h1>
+      <h1> Hi I am Learning React
+      </h1>
     </div>
   );
 }
